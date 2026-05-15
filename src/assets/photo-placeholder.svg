@@ -1,0 +1,29 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" rx="48" fill="url(#bg)"/>
+  <circle cx="175" cy="184" r="94" fill="url(#glow1)" fill-opacity="0.8"/>
+  <circle cx="998" cy="290" r="124" fill="url(#glow2)" fill-opacity="0.9"/>
+  <circle cx="937" cy="1215" r="190" fill="url(#glow3)" fill-opacity="0.8"/>
+  <path d="M600 483C637.333 423 704.3 392.333 769.5 410C851.5 432.5 889.5 526.5 861.5 604.5C834.293 680.292 764.563 747.153 600 871C435.437 747.153 365.707 680.292 338.5 604.5C310.5 526.5 348.5 432.5 430.5 410C495.7 392.333 562.667 423 600 483Z" fill="white" fill-opacity="0.74"/>
+  <rect x="181" y="955" width="838" height="204" rx="30" fill="white" fill-opacity="0.3"/>
+  <text x="600" y="1040" text-anchor="middle" fill="#8B3A62" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Your photo here</text>
+  <text x="600" y="1114" text-anchor="middle" fill="#B05C85" font-family="Arial, Helvetica, sans-serif" font-size="34">Replace this file or import your own local image</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="84" x2="1095" y2="1439" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7FB"/>
+      <stop offset="0.5" stop-color="#FFD9E8"/>
+      <stop offset="1" stop-color="#FFC1DA"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(175 184) rotate(90) scale(94)">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(998 290) rotate(90) scale(124)">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(937 1215) rotate(90) scale(190)">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
